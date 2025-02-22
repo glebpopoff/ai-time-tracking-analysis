@@ -1,0 +1,13 @@
+nlog.txt
+backend/node_modules/*
+package-lock.json
+*.DS_Store
+*.bak
+*.log
+*.pdb
+frontend/.env
+frontend/package-lock.json
+frontend/package-lock.json
+frontend/node_modules
+*.vscode
+frontend/src/**/*.jsx.map
